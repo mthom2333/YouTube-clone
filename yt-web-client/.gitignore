@@ -35,4 +35,4 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-firebase.tsx
+/app/functions/firebase.tsx
